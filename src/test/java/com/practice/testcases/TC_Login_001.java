@@ -8,7 +8,7 @@ import com.practice.pageobject.Login;
 
 public class TC_Login_001 extends BaseClass
 {
-	@Test
+/*	@Test
 	public void login() throws IOException
 	{
 		Login li = new Login(driver);
@@ -31,5 +31,6 @@ public class TC_Login_001 extends BaseClass
 		af.getClictAdminPath().click();
 		logger.info("Clicked the admin feature");
 	}
+	*/
 	
 }

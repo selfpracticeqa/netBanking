@@ -1,47 +1,38 @@
-2020-05-18 01:17:23 INFO  Practice              Browser invoked
-2020-05-18 01:17:23 INFO  Practice              username entered
-2020-05-18 01:17:23 INFO  Practice              Password entered
-2020-05-18 01:17:24 ERROR Practice              Clicked
-2020-05-18 01:17:26 INFO  Practice              Login Failed
-2020-05-18 01:17:26 INFO  Practice              Browser invoked
-2020-05-18 01:17:26 INFO  Practice              username entered
-2020-05-18 01:17:26 INFO  Practice              Password entered
-2020-05-18 01:17:26 ERROR Practice              Clicked
-2020-05-18 01:17:28 INFO  Practice              Login Failed
-2020-05-18 01:17:28 INFO  Practice              Browser invoked
-2020-05-18 01:17:28 INFO  Practice              username entered
-2020-05-18 01:17:28 INFO  Practice              Password entered
-2020-05-18 01:17:29 ERROR Practice              Clicked
-2020-05-18 01:17:31 INFO  Practice              Login Successsful
-2020-05-18 01:17:31 INFO  Practice              Navigated back to login page
-2020-05-18 01:17:31 INFO  Practice              Browser invoked
-2020-05-18 01:17:32 INFO  Practice              username entered
-2020-05-18 01:17:32 INFO  Practice              Password entered
-2020-05-18 01:17:32 ERROR Practice              Clicked
-2020-05-18 01:17:34 INFO  Practice              Login Failed
-2020-05-18 01:19:19 INFO  Practice              Browser invoked
-2020-05-18 01:19:20 INFO  Practice              username entered
-2020-05-18 01:19:20 INFO  Practice              Password entered
-2020-05-18 01:19:21 ERROR Practice              Clicked
-2020-05-18 01:19:23 INFO  Practice              Login Failed
-2020-05-18 01:19:23 INFO  Practice              Browser invoked
-2020-05-18 01:19:23 INFO  Practice              username entered
-2020-05-18 01:19:23 INFO  Practice              Password entered
-2020-05-18 01:19:23 ERROR Practice              Clicked
-2020-05-18 01:19:25 INFO  Practice              Login Failed
-2020-05-18 01:19:25 INFO  Practice              Browser invoked
-2020-05-18 01:19:26 INFO  Practice              username entered
-2020-05-18 01:19:26 INFO  Practice              Password entered
-2020-05-18 01:19:28 ERROR Practice              Clicked
-2020-05-18 01:19:30 INFO  Practice              Login Failed
-2020-05-18 01:19:30 INFO  Practice              Browser invoked
-2020-05-18 01:19:30 INFO  Practice              username entered
-2020-05-18 01:19:30 INFO  Practice              Password entered
-2020-05-18 01:19:31 ERROR Practice              Clicked
-2020-05-18 01:19:33 INFO  Practice              Login Successsful
-2020-05-18 01:19:33 INFO  Practice              Navigated back to login page
-2020-05-18 01:19:33 INFO  Practice              Browser invoked
-2020-05-18 01:19:33 INFO  Practice              username entered
-2020-05-18 01:19:34 INFO  Practice              Password entered
-2020-05-18 01:19:34 ERROR Practice              Clicked
-2020-05-18 01:19:36 INFO  Practice              Login Failed
+2020-06-01 20:34:39 INFO  Practice              Browser Invoked
+2020-06-01 20:35:00 INFO  Practice              Username entered
+2020-06-01 20:35:10 INFO  Practice              Password entered
+2020-06-01 20:35:17 INFO  Practice              Login button clicked
+2020-06-01 20:46:25 INFO  Practice              Browser Invoked
+2020-06-01 20:47:04 INFO  Practice              Username entered
+2020-06-01 20:47:05 INFO  Practice              Password entered
+2020-06-01 20:47:08 INFO  Practice              Login button clicked
+2020-06-01 20:47:08 INFO  Practice              Browser Invoked
+2020-06-01 20:50:49 INFO  Practice              Browser Invoked
+2020-06-01 20:50:50 INFO  Practice              Username entered
+2020-06-01 20:51:05 INFO  Practice              Password entered
+2020-06-01 20:51:06 INFO  Practice              Login button clicked
+2020-06-01 20:51:06 INFO  Practice              Browser Invoked
+2020-06-01 21:10:51 INFO  Practice              Browser Invoked
+2020-06-01 21:10:53 INFO  Practice              Username entered
+2020-06-01 21:10:54 INFO  Practice              Password entered
+2020-06-01 21:10:57 INFO  Practice              Login button clicked
+2020-06-01 21:15:12 INFO  Practice              Browser Invoked
+2020-06-01 21:15:22 INFO  Practice              Username entered
+2020-06-01 21:15:22 INFO  Practice              Password entered
+2020-06-01 21:15:23 INFO  Practice              Login button clicked
+2020-06-01 21:15:25 INFO  Practice              New Customer link clicked
+2020-06-01 21:17:19 INFO  Practice              Browser Invoked
+2020-06-01 21:17:32 INFO  Practice              Username entered
+2020-06-01 21:17:33 INFO  Practice              Password entered
+2020-06-01 21:17:35 INFO  Practice              Login button clicked
+2020-06-01 21:17:38 INFO  Practice              New Customer link clicked
+2020-06-01 21:21:21 INFO  Practice              Browser Invoked
+2020-06-01 21:21:22 INFO  Practice              Username entered
+2020-06-01 21:21:22 INFO  Practice              Password entered
+2020-06-01 21:21:25 INFO  Practice              Login button clicked
+2020-06-01 21:21:25 INFO  Practice              New Customer link clicked
+2020-06-01 21:24:49 INFO  Practice              Browser Invoked
+2020-06-01 21:24:50 INFO  Practice              Username entered
+2020-06-01 21:24:51 INFO  Practice              Password entered
+2020-06-01 21:24:52 INFO  Practice              Login button clicked
+2020-06-01 21:24:53 INFO  Practice              New Customer link clicked

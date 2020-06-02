@@ -9,7 +9,9 @@
   <parameter name="browser" value="chromePath"/>
     <classes>
   <!--   <class name="com.practice.testcases.TC_Login_001"/>-->
-     <class name="com.practice.testcases.TC_Login_DataDriven_003"/>
+    <!--   <class name="com.practice.testcases.TC_Login_DataDriven_003"/>-->
+   <!--   <class name="com.practice.testcases.TC_LoginPage_001"/>-->
+    <class name="com.practice.testcases.TC_New_Customer_001"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

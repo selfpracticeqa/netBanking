@@ -18,8 +18,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
+import com.practice.pageobject.LoginPage;
 import com.practice.utilities.ReadUtilities;
 
 public class BaseClass 
@@ -60,14 +62,28 @@ public class BaseClass
 		driver.manage().window().maximize();
 		driver.get(url);
 
-		
+		login();
 		
 	}
+	
+	
 	
 	@AfterTest
 	public void tearDown()
 	{
 		driver.quit();
+	}
+	
+	public void login()
+	{
+		LoginPage lp = new LoginPage(driver);
+		logger.info("Browser Invoked");
+		lp.getUsername().sendKeys(username);
+		logger.info("Username entered");
+		lp.getPassword().sendKeys(password);
+		logger.info("Password entered");
+		lp.clickSubmit().click();
+		logger.info("Login button clicked");
 	}
 	
 	public String getScreenShotPath(String testCaseName,WebDriver driver) throws IOException
